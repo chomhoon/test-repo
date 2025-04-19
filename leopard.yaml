@@ -2,7 +2,11 @@ team:leopard
 
 manager: luke
 
+<<<<<<< HEAD
 coach: nicholas
+=======
+coach: melisa
+>>>>>>> 107f07c (edit leopard)
 
 member:
 -linda
